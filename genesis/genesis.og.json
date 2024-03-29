@@ -199,7 +199,7 @@
       },
       "params": {
         "mint_denom": "utsaga",
-        "inflation_rate_change": "0.100000000000000000",
+        "inflation_rate_change": "1.000000000000000000",
         "inflation_max": "0.080000000000000000",
         "inflation_min": "0.020000000000000000",
         "goal_bonded": "0.670000000000000000",
