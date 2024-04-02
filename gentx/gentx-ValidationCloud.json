@@ -6,9 +6,9 @@
         "description": {
           "moniker": "validationcloud",
           "identity": "",
-          "website": "https://www.validationcloud.io",
+          "website": "",
           "security_contact": "",
-          "details": "Validation Cloud is a Web3 platform that delivers elite, high-performance node and staking infrastructure."
+          "details": ""
         },
         "commission": {
           "rate": "0.100000000000000000",
@@ -28,7 +28,7 @@
         }
       }
     ],
-    "memo": "638a2ac4e288e8015b2a62ae7db662471e57e027@16.62.42.237:26656",
+    "memo": "2ca434301deb6a83245dda0d830f8c198d0d37c3@16.62.42.237:26656",
     "timeout_height": "0",
     "extension_options": [],
     "non_critical_extension_options": []
@@ -57,6 +57,6 @@
     "tip": null
   },
   "signatures": [
-    "RNZfKTpwKmVNF3BQnzl5xX77BOFUx2mMHMJGIxTwXiAqOBTM7+WViTdz4niX4UjddWN1NpbQ4Y/1KTMHgLsRYw=="
+    "NI72faEDgSGjGRH0+p9O+RCTC7jritBA7b2b4gjxGh1U2eh57w1YAWyj/zmzdrDyJE6jDWDfRUSWytR3Q0bqjA=="
   ]
 }
